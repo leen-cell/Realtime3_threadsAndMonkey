@@ -1,0 +1,43 @@
+# number of families
+FAMILY_NUM=7
+
+# number of banana the female can carry
+BANANA_TO_COLLECT=5
+
+# max number of withdrawn families
+WITHDRAWN_FAMILIES=4
+
+# max number of banana collected
+COLLECTED_BANANA=10
+
+# max number of banana eaten
+EATEN_BANANA=4
+
+# max time for the program to run
+MAX_SIM_TIME=60
+
+FEMALE_INITIAL_ENERGY=100
+MALE_INITIAL_ENERGY=70
+
+# energy loss
+ENERGY_LOSS_COLLECT=2
+ENERGY_LOSS_FIGHT=10
+
+# energy rest threshold
+ENERGY_THRESHOLD=10
+
+BABY_SLEEP_US=200000
+BABY_STARVATION_THRESHOLD=15
+BABY_MIN_HUNGER_TO_STEAL=5
+BABY_HUNGER_RANDOM_MIN=10
+BABY_HUNGER_RANDOM_MAX=25
+ENERGY_LOSS_MOVE=1
+
+
+#default random maze
+MAZE_ROWS=10
+MAZE_COLS=10
+MAZE_BANANA_CELLS=20
+MAZE_OBSTACLE_CELLS=15
+
+
