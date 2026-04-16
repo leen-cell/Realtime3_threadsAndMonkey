@@ -23,7 +23,7 @@ The simulation ends based on configurable termination conditions defined in a **
 
 ---
 
-## 🧠 Main Concepts Used
+## Main Concepts Used
 
 * POSIX Threads (`pthread`)
 * Mutexes & synchronization
